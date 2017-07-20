@@ -1,4 +1,3 @@
-
 # 1. Notion de Kata
 Le premier kata sert à introduire la notion de coding dojo et de Kata. et aussi:
 - à Prendre la température. On regarde d'où on part, si les gens savent faire des tests,ect
@@ -18,11 +17,11 @@ découvrir TDD: in/out simples avec types primitifs (ne pas se bloquer: TDD souv
 
 # 3. Péréniser
 
-# 4. amplifier
+# 4. Amplifier
 Katas plus riches, pour pouvoir travailler principes SOLID, TU as documentation, varier les sujets
 Trivia, RPN, game of life, Mars Rover, Poker, TripService, FruitShop, GildedRose...
 
-# 5. inside out/outside in
+# 5. TDD avancé : Inside out/outside in
 Il s'agit de voir les mock, de traverser les API.
 coffee machine, Pandémie vs Kahuna
 
