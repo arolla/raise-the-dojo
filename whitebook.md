@@ -1,8 +1,12 @@
 # 1. Notion de Kata
-Le premier kata sert à introduire la notion de coding dojo et de Kata. et aussi:
-- à Prendre la température. On regarde d'où on part, si les gens savent faire des tests,ect
-- Ne doit pas être trop distruptif (ne pas braquer l'auditoire).
-- l'artisan travaille avec sa tête, l'artiste avec son coeur. Le coding dojo sert aussi à expérimenter, se faire plaisir, à se laisser aller à son côté artiste
+Le premier kata sert à introduire la notion de coding dojo et de Kata. 
+En tant que crafstman, nous avons tendance à être entourés de gens aguéris et familiers du concept. Ce n'est en général pas le cas lorsque l'on effectue une prestation de coaching.
+La notion de coding dojo et de kata peut paraitre étrange pour certaines personnes, voir inutile. L'idée est d'ammener le sujet en douceur sans braquer personne.
+
+Les objectifs de la premiére session sont donc:
+- De Prendre la température. On regarde d'où on part, si les gens savent faire des tests,ect
+- Elle ne doit pas être trop distruptive (ne pas braquer l'auditoire).
+- L'artsan travaille avec sa tête, l'artiste avec son coeur. Le coding dojo sert aussi à expérimenter, se faire plaisir, à se laisser aller à son côté artiste
 - c'est un espace de bienveillance
 - échange sur son code, celui du voisin.
 
