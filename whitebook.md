@@ -3,7 +3,7 @@ Le premier kata sert à introduire la notion de coding dojo et de Kata.
 En tant que crafstman, nous avons tendance à être entourés de gens aguéris et familiers du concept. Ce n'est en général pas le cas lorsque l'on effectue une prestation de coaching.
 La notion de coding dojo et de kata peut paraitre étrange pour certaines personnes, voir inutile. L'idée est d'ammener le sujet en douceur sans braquer personne.
 Les principales réticences sont souvent: 
-- Développer un code fantaisiste (sans enjeux prod)
+- Implémenter des fonctionalités fantaisistes (sans enjeux prod)
 - Ecrire des tests
 - Faire du TDD
 - Faire du pair programming
