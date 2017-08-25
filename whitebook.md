@@ -24,10 +24,12 @@ Le kata Rental-Movie se prête bien au jeu.
 
 
 # Points de départ
-Si besoin d'apprendre le language (rare): Les Koans ou un site comme exercism.io sont très pratiques.
-découvrir les tests: refactoring de code legacy: on se concentre sur l'écriture de tests.
-découvrir TDD: L'interface utilisée doit être simple: types primitifs en entrée/sortie par exemple, et ce afin de ne pas se bloquer: TDD souvent dur à commencer si l'on est pas dans l'état d'esprit. 
-        exemple: Roman numerals, FizzBuzzz,LeapYear,TennisGame,PrimeFactor. Choisir un kata où l'écriture de
+Si besoin :
+- d'apprendre le language (rare): Les Koans ou un site comme exercism.io sont très pratiques.
+- de découvrir les tests: refactoring de code legacy: on se concentre sur l'écriture de tests.
+- de découvrir TDD: L'interface utilisée doit être simple: types primitifs en entrée/sortie par exemple, et ce afin de ne pas se bloquer: Le TDD est souvent dur à commencer si l'on est pas dans l'état d'esprit. 
+
+exemple: Roman numerals, FizzBuzzz,LeapYear,TennisGame,PrimeFactor. Choisir un kata où l'écriture de
         
 # Légitimité
 On peut se sentir illégitime en animant un coding dojo, et penser qu'il faut absolument être meilleur que les coachés pour avoir le droit d'être là: c'est faux.
@@ -44,10 +46,35 @@ De plus, il est souvent possible dès la première scéance que chacun reparte e
 Si c'est un kata d'exploration où personne dans la salle ne paitrise le sujet, possibilité de faire du mob-programming afin d'avancer ensemble.
 
 # Péréniser
+Lorsque l'on anime des scéances sur le long terme, un essouflement peut survenir. Comment faire perdurer la flamme ? Comment se renouveller à l'infinit ?
+
+Quand doit-on arrêter ? 
+Idéalement jamais ! Vu que l'on a toujours une marge de progression. La seule vrai raison d'arrêter est s'il n'y a plus de plaisir (d'un côté ou de l'autre). Mais sinon certains problémes se règlent d'eux même:
+- turn over des entreprises: rebelotte on recommence !
+- Possibilité de refaire les mêmes katas: soit sous un angle différent, soit pour enlever de possibles frustrations
+- une bonne moitié de la prestation consiste à juste être là. Nombreuses sont les entreprises qui tentent de mettre en place des katas réguliers, mais sans faire appel à un intervenant externe: L'initiative va sauter une premiére fois pour cause de probléme en prod, une seconde fois parce que la feature ne peut attendre, la 3e fois parce "j'aimerais bien débloquer mon probléme".....et on entends plus jamais parler du coding-dojo du mercredi :-/
+
+Là vous êtes démarchés exprès, l'entreprise vous paie: même si la motivation était en berne ce jours là on ne peux vous laisser en plan, cela force à continuer et ne pas laisser tomber l'idée. On ne vous demande donc pas forcément de révolutionner le monde du coding-dojo à chaque scéance.
+
+# Sortir du cadre
+
+Cela n'empêche pas pour autant d'essayer de sortir du cadre. 
+
+Une piste facile pour inventer des katas est de piocher dans les jeux de société:
+- Pandémie
+- Quarto
+- Kahuna
+- Yams (revisité avec le 1000 sabords par exemple)
+
+L'avantage des jeux de société:
+- métier documenté
+- prise en main rapide
+- fun
 
 # Amplifier
 Katas plus riches, pour pouvoir travailler principes SOLID, TU as documentation, varier les sujets
-Trivia, RPN, game of life, Mars Rover, Poker, TripService, FruitShop, GildedRose...
+
+ex: Trivia, RPN, game of life, Mars Rover, Poker, TripService, FruitShop, GildedRose...
 
 # TDD avancé : Inside out/outside in
 Il s'agit de voir les mock, de traverser les API.
