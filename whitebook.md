@@ -46,9 +46,6 @@ De plus, il est souvent possible dès la première scéance que chacun reparte e
 Si c'est un kata d'exploration où personne dans la salle ne maîtrise le sujet, possibilité de faire du mob-programming afin d'avancer ensemble.
 
 # Péréniser
--- INSERT --
-
-# Péréniser
 Lorsque l'on anime des scéances sur le long terme, un essouflement peut survenir. Comment faire perdurer la flamme ? Comment se renouveller à l'infini ?
 
 Quand doit-on arrêter ?
