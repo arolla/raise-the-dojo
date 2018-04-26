@@ -4,7 +4,7 @@ En tant que crafstman, nous avons tendance à être entouré de gens aguéris et
 Les notions de coding dojo et de kata peuvent paraître étranges pour certaines personnes, voire inutiles. L'idée est d'ammener le sujet en douceur sans braquer personne.
 Les principales réticences sont souvent :
 - Implémenter des fonctionalités fantaisistes (sans enjeux prod)
-- Ecrire des tests
+- Ecrire des tests 
 - Faire du TDD
 - Faire du pair programming
 
@@ -25,21 +25,26 @@ Le kata [Rental-Movie](./katas/rental-movie.md) se prête bien au jeu.
 
 # Points de départ
 Si besoin :
-- d'apprendre le language (rare): Les [Koans](https://www.solutionsiq.com/resource/blog-post/learning-a-new-programming-language-with-code-koans/) ou un site comme [exercism](exercism.io) sont très pratiques.
-- de découvrir les tests: refactoring de code legacy: on se concentre sur l'écriture de tests comme dans [gilded rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)
-- de découvrir TDD: L'iAPI utilisée doit être simple: types primitifs en entrée/sortie par exemple, et l'algorithme aussi : Le TDD est souvent dur à commencer si l'on est pas dans l'état d'esprit.
+- d'apprendre un language : Les [Koans](https://www.solutionsiq.com/resource/blog-post/learning-a-new-programming-language-with-code-koans/) ou un site comme [exercism](exercism.io) sont très pratiques.
+- de découvrir les design patterns : les [codes d'exemples](https://github.com/bethrobson/Head-First-Design-Patterns) de livres connus comme [Head First Design Patterns](https://www.amazon.fr/First-Design-Patterns-Elisabeth-Freeman/dp/0596007124)
+- de découvrir l'algorythmie : avec des répertoires de sujets comme [SPhere Online Judge](http://www.spoj.com/problems/classical/sort=11) ou [Coding Game](https://www.codingame.com) entre autres
+- de découvrir les tests : refactoring de code legacy: on se concentre sur l'écriture de tests comme dans [gilded rose](https://github.com/emilybache/GildedRose-Refactoring-Kata), [ugly trivia](https://github.com/jbrains/trivia/), [leagacy_decompiled](https://github.com/cyriux/legacy-testing-kata-java)
+- de découvrir TDD : L'API utilisée doit être simple: types primitifs en entrée/sortie par exemple, et l'algorithme aussi : Le TDD est souvent dur à commencer si l'on est pas dans l'état d'esprit.
 
-Les plus simples : LeapYear (année bisextile), FizzBuzz, FooBarQix, PrimeFactor, TennisGame
+Il ne faut pas hésiter à commencer très simple et à monter régulièrement jusqu'au niveau qui vous challenge sufisament pour vous plaire.
+Un exercice idéal ne devrait apporter qu'une difficulté : le sujet que vous souhaitez étudier.
 
-Avoir un kata très simple permet de vraiement se concentrer sur la méthode de travail.
+Pour décourvir les 3 lois du TDD et son cycle red/green/refactor, voici quelques exrcices évidents : LeapYear (année bisextile), FizzBuzz
+Quelques exrcices simples : FooBarQix, PrimeFactor, TennisGame
 
 
 # Légitimité
-On peut se sentir illégitime en animant un coding dojo, et penser qu'il faut absolument être meilleur que les coachés pour avoir le droit d'être là: c'est faux.
+On peut se sentir illégitime en animant un coding dojo, et penser qu'il faut absolument être meilleur que les participants pour avoir le droit d'être là: c'est faux.
 Les champions du monde se font nécessairement coacher par des moins bons, l'animateur n'a pas être omniscient.
 Ensuite, le fait d'être là est déjà une valeur en soi : cela force les gens à tenir la cadence du kata, sinon le créneau saute une ou deux fois puis l'initiative meurt.
 
-Ensuite, il s'agit d'animer et donc faciliter: Le coaché est acteur, et les coachés peuvent s'apprendre mutuellement des choses. Notre rôle est donc aussi de faciliter l'échange au sein du groupe.
+Ensuite, il s'agit d'animer et donc faciliter: Le participant est acteur, et ils peuvent s'apprendre mutuellement des choses.
+Notre rôle est donc aussi de faciliter l'échange au sein du groupe.
 
 De plus, il est souvent possible dès la première scéance que chacun reparte en ayant appris quelque chose, que ce soit:
 - un nouveau raccourci clavier
@@ -47,7 +52,7 @@ De plus, il est souvent possible dès la première scéance que chacun reparte e
 - la différence entre branch coverage et line coverage
 - une lib utile pour les tests (mockito, assertJ, etc)
 
-Si c'est un kata d'exploration où personne dans la salle ne maîtrise le sujet, possibilité de faire du mob-programming afin d'avancer ensemble.
+Pour renforcer le fait que tout le monde est participant, les format de type Randori et Mob Programming sont très appropriés.
 
 # Péréniser
 Lorsque l'on anime des scéances sur le long terme, un essouflement peut survenir. Comment faire perdurer la flamme ? Comment se renouveller à l'infini ?
