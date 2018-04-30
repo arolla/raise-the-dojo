@@ -18,12 +18,12 @@ class Index extends React.Component {
         <SEO postEdges={allSEOMarkdown} />
         <main>
           <IndexHeadContainer>
+            <Navigation />
             <Hero>
               <img src={config.siteLogo} width="150px" alt="" />
             </Hero>
           </IndexHeadContainer>
           <BodyContainer>
-            <Navigation />
             <h1>{config.siteTitle}</h1>
             <h4>{config.siteDescription}</h4>
             <p>

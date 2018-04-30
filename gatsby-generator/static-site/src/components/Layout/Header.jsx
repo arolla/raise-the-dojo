@@ -1,11 +1,14 @@
 import React from 'react'
 import styled from 'styled-components'
+import Navigation from './Navigation'
 import image from '../../img/header.jpg'
 
 class MainHeader extends React.Component {
   render() {
     return (
-      <SiteContainer />
+        <SiteContainer >
+          <Navigation />
+        </SiteContainer>
     )
   }
 }
