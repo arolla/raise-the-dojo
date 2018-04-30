@@ -34,11 +34,11 @@ module.exports = {
     //   url: "https://www.messenger.com/t/eric.windmill",
     //   iconClassName: "fa fa-message"
     // },
-    {
-      label: "Email",
-      url: "mailto:eric@ericwindmill.com",
-      iconClassName: "fa fa-envelope"
-    },
+    // {
+    //   label: "Email",
+    //   url: "mailto:eric@ericwindmill.com",
+    //   iconClassName: "fa fa-envelope"
+    // },
     // {
     //   label: "Instagram",
     //   url: "https://instagram.com/ericwindmill",

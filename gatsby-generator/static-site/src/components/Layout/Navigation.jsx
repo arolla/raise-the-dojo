@@ -7,7 +7,6 @@ const NavContainer = styled.div`
   display: flex;
   justify-content: space-between;
   width: 100%;
-  background: ${props => props.theme.brand};
 
   .nav-link {
     font-size: 1.6rem;
