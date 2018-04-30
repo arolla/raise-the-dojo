@@ -13,7 +13,7 @@ const Container = styled.div`
 
 const UserIcon = styled.a`
   margin-left: 25px;
-  color: white;
+  color: black;
   &:hover {
     color: rgba(0, 0, 0, 0.2);
     border-bottom: none;
