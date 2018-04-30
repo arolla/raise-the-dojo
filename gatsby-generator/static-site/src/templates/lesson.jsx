@@ -4,7 +4,6 @@ import styled from 'styled-components'
 
 import SEO from '../components/SEO'
 import SiteHeader from '../components/Layout/Header'
-import Navigation from '../components/Layout/Navigation'
 import config from '../../data/SiteConfig'
 import TableOfContents from '../components/Layout/TableOfContents'
 
@@ -35,7 +34,6 @@ export default class LessonTemplate extends React.Component {
             />
           </ToCContainer>
           <BodyContainer>
-            <Navigation />
             <div>
               <h1>{post.title}</h1>
               <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
