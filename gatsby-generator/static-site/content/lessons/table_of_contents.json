@@ -1,0 +1,13 @@
+{
+  "id": "table-of-contents",
+  "chapters": [
+    {
+      "title": "2. Katas",
+      "entries": [
+        {
+          "entry": "./lesson_five.md"
+        }
+      ]
+    }
+  ]
+}
