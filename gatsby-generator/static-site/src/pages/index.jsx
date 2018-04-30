@@ -34,6 +34,15 @@ class Index extends React.Component {
             diffuse les meilleures connues à ce jour. Dans cet esprit, 
             il existe de multiple activités comme la participations aux meetups, conférences, formations, etc.
             </p>
+            <hr />
+            <h2>Animation Craft : booster votre excellence technique</h2>
+            <p>
+            Pour booster l'excellence technique des développeurs ! 
+            Un Dojo est une séance de travail en groupe sur des exercices d'entrainement pour développer notre propre excellence technique.
+            Il y a trois facteurs "principaux" de motivations qui touchent au salaire, 
+            à la reconnaissance des pairs et à la maitrise de son domaine. 
+            Par les dojos, nous proposons de développer cette maitrise de l'art du développement.
+            </p>
             <CtaButton to={'/introduction'}>Démarrez !</CtaButton>
 
             <div className="contributors">
