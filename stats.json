@@ -1,0 +1,80 @@
+{
+  "assetsByChunkName": {
+    "path---post-test": [
+      "path---post-test-b9fcdd1fd221c967c55b.js",
+      "path---post-test-b9fcdd1fd221c967c55b.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-4b2193c0c4bef0d20585.js",
+      "component---src-layouts-index-jsx-4b2193c0c4bef0d20585.js.map"
+    ],
+    "path---categories-tech": [
+      "path---categories-tech-673241575df37bf5922c.js",
+      "path---categories-tech-673241575df37bf5922c.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-templates-lesson-jsx": [
+      "component---src-templates-lesson-jsx-d57a97cff3424e3f60b1.js",
+      "component---src-templates-lesson-jsx-d57a97cff3424e3f60b1.js.map"
+    ],
+    "component---src-templates-category-jsx": [
+      "component---src-templates-category-jsx-79f394448ef5d1ff97f1.js",
+      "component---src-templates-category-jsx-79f394448ef5d1ff97f1.js.map"
+    ],
+    "path---index": [
+      "path---index-1b08b6bc7fd76d76cad6.js",
+      "path---index-1b08b6bc7fd76d76cad6.js.map"
+    ],
+    "component---src-pages-about-jsx": [
+      "component---src-pages-about-jsx-d14a37b14bc25e02553e.js",
+      "component---src-pages-about-jsx-d14a37b14bc25e02553e.js.map"
+    ],
+    "path---post-one": [
+      "path---post-one-f0e4a357bc589246bd89.js",
+      "path---post-one-f0e4a357bc589246bd89.js.map"
+    ],
+    "path---introduction": [
+      "path---introduction-9bbd6cc931d6055dfbaf.js",
+      "path---introduction-9bbd6cc931d6055dfbaf.js.map"
+    ],
+    "commons": [
+      "commons-44f5a544f0b7df48a619.js",
+      "build-js-styles.css",
+      "commons-44f5a544f0b7df48a619.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-post-jsx": [
+      "component---src-templates-post-jsx-cb5aa21e36c29df4a4b0.js",
+      "component---src-templates-post-jsx-cb5aa21e36c29df4a4b0.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-ee91b3d0be52fd199a2a.js",
+      "component---src-pages-index-jsx-ee91b3d0be52fd199a2a.js.map"
+    ],
+    "path---rental-movie": [
+      "path---rental-movie-daa17a14fb76e176e674.js",
+      "path---rental-movie-daa17a14fb76e176e674.js.map"
+    ],
+    "app": [
+      "app-2227c96cf5c07972cff7.js",
+      "build-js-styles.css",
+      "app-2227c96cf5c07972cff7.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
