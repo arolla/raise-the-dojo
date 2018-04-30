@@ -22,7 +22,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
-        fonts: [`crimson text:400, 400i, 700, 700i`, `space mono:400,700`]
+        fonts: [`Yeon Sung:400, 400i, 700, 700i`]
       }
     },
     {
