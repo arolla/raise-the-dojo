@@ -11,6 +11,7 @@ class Body extends React.Component {
   render() {
     return (
       <Container>
+        <Navigation />
         <h1>Body</h1>
         <PostListing />
       </Container>

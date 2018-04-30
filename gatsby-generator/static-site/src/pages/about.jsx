@@ -20,6 +20,7 @@ class AboutPage extends React.Component {
             siteDescription={config.siteDescription}
             location={this.props.location}
             logo={config.siteLogo}
+            headerImage={this.props.data.headerImage}
           />
           <BodyContainer>
             <About />
@@ -31,3 +32,13 @@ class AboutPage extends React.Component {
 }
 
 export default AboutPage
+
+export const pageQuery = graphql`
+  query HeaderImageQuery {
+    headerImage: imageSharp(id: { regex: "/header/" }) {
+      sizes(maxWidth: 1240 ) {
+        ...GatsbyImageSharpSizes
+      }
+    }
+  }
+`

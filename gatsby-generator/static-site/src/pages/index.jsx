@@ -1,6 +1,7 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import styled from 'styled-components'
+import image from '../img/header.jpg'
 
 import SEO from '../components/SEO'
 import config from '../../data/SiteConfig'
@@ -17,15 +18,14 @@ class Index extends React.Component {
         <SEO postEdges={allSEOMarkdown} />
         <main>
           <IndexHeadContainer>
-            <Navigation />
             <Hero>
               <img src={config.siteLogo} width="150px" alt="" />
-              <h1>{config.siteTitle}</h1>
-              <h4>{config.siteDescription}</h4>
             </Hero>
           </IndexHeadContainer>
           <BodyContainer>
-            <h2>Raise-the-dojo</h2>
+            <Navigation />
+            <h1>{config.siteTitle}</h1>
+            <h4>{config.siteDescription}</h4>
             <p>
             Notre métier change et se transforme plus rapidement que nos carrières. 
             Les compétences et méthodes d'aujourd'hui ne seront pas celles demain. 
@@ -65,15 +65,17 @@ class Index extends React.Component {
 export default Index
 
 const IndexHeadContainer = styled.div`
-  background: ${props => props.theme.brand};
+  background-image: url(${image});
   padding: ${props => props.theme.sitePadding};
   text-align: center;
 `
 
 const Hero = styled.div`
   padding: 50px 0;
+  color: white;
   & > h1 {
     font-weight: 600;
+    color: white;
   }
 `
 
