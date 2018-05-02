@@ -17,6 +17,14 @@ Par les dojos, nous proposons de développer cette maitrise de l'art du dévelop
 
 # Ajout de nouveaux Katas :
 
+- cloner le repository
+- se placer dans gatsby-generator/static-site/
+- installer les dépendances du projet 
+
+```sh
+  npm install
+```
+
 - Ajoutez votre nouveau kata dans static-site/content/lessons/monKata.md
 - Ajoutez la nouvelle le lien vers ce nouveau kata dans 'table_of_contents.json'
 
