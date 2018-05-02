@@ -26,7 +26,7 @@ Par les dojos, nous proposons de développer cette maitrise de l'art du dévelop
 ```
 
 - Ajoutez votre nouveau kata dans static-site/content/lessons/monKata.md
-- Ajoutez la nouvelle le lien vers ce nouveau kata dans 'table_of_contents.json'
+- Ajoutez le lien vers ce nouveau kata dans 'table_of_contents.json'
 
 ```json
     {
