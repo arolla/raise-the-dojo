@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---notion-de-kata": [
-      "path---notion-de-kata-0d239f4a301f6f94f2c0.js",
-      "path---notion-de-kata-0d239f4a301f6f94f2c0.js.map"
+      "path---notion-de-kata-082741165c7ab09feb2b.js",
+      "path---notion-de-kata-082741165c7ab09feb2b.js.map"
     ],
     "path---post-test": [
       "path---post-test-b9fcdd1fd221c967c55b.js",
@@ -33,8 +33,8 @@
       "component---src-templates-category-jsx-79f394448ef5d1ff97f1.js.map"
     ],
     "path---index": [
-      "path---index-53225563333149bd91b6.js",
-      "path---index-53225563333149bd91b6.js.map"
+      "path---index-1c25f896d5314a0d2565.js",
+      "path---index-1c25f896d5314a0d2565.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-e066d5f7c1143b69cff0.js",
@@ -45,8 +45,8 @@
       "path---post-one-f0e4a357bc589246bd89.js.map"
     ],
     "path---introduction": [
-      "path---introduction-cef919599b5f7b1d30ac.js",
-      "path---introduction-cef919599b5f7b1d30ac.js.map"
+      "path---introduction-093e36100f563cb06fea.js",
+      "path---introduction-093e36100f563cb06fea.js.map"
     ],
     "commons": [
       "commons-76b2aa19e6590585b707.js",
@@ -71,9 +71,9 @@
       "path---rental-movie-07ba1337013071c01242.js.map"
     ],
     "app": [
-      "app-94418d0f3a125395d917.js",
+      "app-1252dcf07eeab4f4ba2a.js",
       "build-js-styles.css",
-      "app-94418d0f3a125395d917.js.map",
+      "app-1252dcf07eeab4f4ba2a.js.map",
       "build-js-styles.css.map"
     ],
     "path---about": [

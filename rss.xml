@@ -1,15 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Raise-the-dojo]]></title><description><![CDATA[ Ce dépôt décris ce qu'est un dojo, a quoi ca sert et pourquoi vous et vos décideurs en voulez chez vous. ]]></description><link>https://arolla.fr/raise-the-dojo</link><image><url>https://arolla.fr/raise-the-dojo/logos/logo-512.png</url><title>Raise-the-dojo</title><link>https://arolla.fr/raise-the-dojo</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Mon, 30 Apr 2018 15:38:54 GMT</lastBuildDate><atom:link href="https://arolla.fr/raise-the-dojo/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[User]]></author><copyright><![CDATA[Copyright © 2018. Arolla]]></copyright><item><title><![CDATA[Introduction]]></title><description><![CDATA[Pourquoi un dépôt de connaissances sur les dojos craft ? Le  manifeste Craft  parle de communauté de professionnels du développement…]]></description><link>https://arolla.fr/raise-the-dojo/introduction</link><guid isPermaLink="false">https://arolla.fr/raise-the-dojo/introduction</guid><dc:creator><![CDATA[User]]></dc:creator><content:encoded>&lt;p&gt;Pourquoi un dépôt de connaissances sur les dojos craft ?&lt;/p&gt;
-&lt;p&gt;Le &lt;a href=&quot;http://manifesto.softwarecraftsmanship.org/#/fr-fr&quot;&gt;manifeste Craft&lt;/a&gt; parle de communauté de professionnels du développement logiciel et de relever le niveau.&lt;/p&gt;
-&lt;p&gt;Le métier de développeur logiciel est récent comparé à la construction de bâtiment ou à la météorologie.
-Vous connaissez la fiabilité de ceux deux métiers.
-Vous savez que les logiciels veillissent mal ?
-Vous connaissez les problèmes de logiciels qui perdent en flexibilité et en productivité jusqu&apos;à la non rentabilité ?
-&lt;strong&gt;Le mouvement du développement artisanal de logiciels cherche, essaye et contribue à améliorer les valeurs, principes et pratiques qui relèvent le niveau dans leur métier.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Comme ces recherches ne sont utiles que si elles sont diffusées et appliquées, nous proposons des évènements où l&apos;on essaye et on s&apos;entraîne.
-Ces évènements se déroulent dans des salles de formation ou de réunion que l&apos;on nomme des &quot;coding dojos&quot;.
-Les exercices proposés sont donc des &quot;katas&quot; de programmation (le plus souvent).
-C&apos;est un contexte sans mise en prod, sans &quot;évaluation du management&quot; ni autre pression exterieure où la seule contrainte est de s&apos;approprier une nouvelle technique.&lt;/p&gt;
-&lt;p&gt;Ce contenu accompagnera les tech lead, scrum master et coach dans l&apos;aventure du partage de bonnes pratiques et de montée en savoir-faire craft.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Rental-Movie]]></title><description><![CDATA[C'est un kata de refactoring de code sur un algorythme de gestion proche des applications de gestion que l'on trouve dans les grandes…]]></description><link>https://arolla.fr/raise-the-dojo/rental-movie</link><guid isPermaLink="false">https://arolla.fr/raise-the-dojo/rental-movie</guid><dc:creator><![CDATA[User]]></dc:creator><content:encoded>&lt;p&gt;C&apos;est un kata de refactoring de code sur un algorythme de gestion proche des applications de gestion que l&apos;on trouve dans les grandes entreprises.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Raise-the-dojo]]></title><description><![CDATA[ Ce dépôt décris ce qu'est un dojo, a quoi ca sert et pourquoi vous et vos décideurs en voulez chez vous. ]]></description><link>https://arolla.fr/raise-the-dojo</link><image><url>https://arolla.fr/raise-the-dojo/logos/logo-512.png</url><title>Raise-the-dojo</title><link>https://arolla.fr/raise-the-dojo</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Wed, 02 May 2018 09:24:57 GMT</lastBuildDate><atom:link href="https://arolla.fr/raise-the-dojo/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[User]]></author><copyright><![CDATA[Copyright © 2018. Arolla]]></copyright><item><title><![CDATA[Rental-Movie]]></title><description><![CDATA[C'est un kata de refactoring de code sur un algorythme de gestion proche des applications de gestion que l'on trouve dans les grandes…]]></description><link>https://arolla.fr/raise-the-dojo/rental-movie</link><guid isPermaLink="false">https://arolla.fr/raise-the-dojo/rental-movie</guid><dc:creator><![CDATA[User]]></dc:creator><content:encoded>&lt;p&gt;C&apos;est un kata de refactoring de code sur un algorythme de gestion proche des applications de gestion que l&apos;on trouve dans les grandes entreprises.&lt;/p&gt;
 &lt;p&gt;On trouve deux usages dans ce Kata :&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;faire connaissance avec le public du Dojo lors d&apos;une première session&lt;/li&gt;
@@ -52,7 +41,18 @@ Tous les livres ayant du code exemple se prêtent a ce format de Dojo qui devien
 &lt;p&gt;Combien de fois avez vous relu un code d&apos;un ancien projet preso en étant satisfait du code ?
 Ici, c&apos;est pareil, vous progressez, vous évoluez, vos goûts et votre savoir faire change.&lt;/p&gt;
 &lt;p&gt;Autant le refaire une fois, un an plus tard pour moi-même est intéressant, autant en dojo je le referais plutôt en mob.
-En jouant l&apos;exercice seul, on a fait connaissance avec chacun, en le rejouant tous ensemble, on voit la dynamique d&apos;équipe, d&apos;entre aide, etc.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Notion de Kata]]></title><description><![CDATA[Le premier kata sert à introduire la notion de coding dojo et de Kata.
+En jouant l&apos;exercice seul, on a fait connaissance avec chacun, en le rejouant tous ensemble, on voit la dynamique d&apos;équipe, d&apos;entre aide, etc.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Introduction]]></title><description><![CDATA[Pourquoi un dépôt de connaissances sur les dojos craft ? Le  manifeste Craft  parle de communauté de professionnels du développement…]]></description><link>https://arolla.fr/raise-the-dojo/introduction</link><guid isPermaLink="false">https://arolla.fr/raise-the-dojo/introduction</guid><dc:creator><![CDATA[User]]></dc:creator><content:encoded>&lt;p&gt;Pourquoi un dépôt de connaissances sur les dojos craft ?&lt;/p&gt;
+&lt;p&gt;Le &lt;a href=&quot;http://manifesto.softwarecraftsmanship.org/#/fr-fr&quot;&gt;manifeste Craft&lt;/a&gt; parle de communauté de professionnels du développement logiciel et de relever le niveau.&lt;/p&gt;
+&lt;p&gt;Le métier de développeur logiciel est récent comparé à la construction de bâtiment ou à la météorologie.
+Vous connaissez la fiabilité de ceux deux métiers.
+Vous savez que les logiciels veillissent mal ?
+Vous connaissez les problèmes de logiciels qui perdent en flexibilité et en productivité jusqu&apos;à la non rentabilité ?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Le mouvement du développement artisanal de logiciels cherche, essaye et contribue à améliorer les valeurs, principes et pratiques qui relèvent le niveau dans leur métier.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Comme ces recherches ne sont utiles que si elles sont diffusées et appliquées, nous proposons des évènements où l&apos;on essaye et on s&apos;entraîne.
+Ces évènements se déroulent dans des salles de formation ou de réunion que l&apos;on nomme des &quot;coding dojos&quot;.
+Les exercices proposés sont donc des &quot;katas&quot; de programmation (le plus souvent).
+C&apos;est un contexte sans mise en prod, sans &quot;évaluation du management&quot; ni autre pression exterieure où la seule contrainte est de s&apos;approprier une nouvelle technique.&lt;/p&gt;
+&lt;p&gt;Ce contenu accompagnera les tech lead, scrum master et coach dans l&apos;aventure du partage de bonnes pratiques et de montée en savoir-faire craft.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Notion de Kata]]></title><description><![CDATA[Le premier kata sert à introduire la notion de coding dojo et de Kata.
 En tant que crafstman, nous avons tendance à être entouré de gens…]]></description><link>https://arolla.fr/raise-the-dojo/notion-de-kata</link><guid isPermaLink="false">https://arolla.fr/raise-the-dojo/notion-de-kata</guid><dc:creator><![CDATA[User]]></dc:creator><content:encoded>&lt;p&gt;Le premier kata sert à introduire la notion de coding dojo et de Kata.
 En tant que crafstman, nous avons tendance à être entouré de gens aguéris et familiers du concept. Ce n&apos;est pas en général le cas lorsque l&apos;on effectue une prestation de coaching.
 Les notions de coding dojo et de kata peuvent paraître étranges pour certaines personnes, voire inutiles. L&apos;idée est d&apos;ammener le sujet en douceur sans braquer personne.
@@ -75,7 +75,7 @@ Les principales réticences sont souvent :&lt;/p&gt;
 A l&apos;image de la 1ère section de maternelle: l&apos;enfant n&apos;acquiert que peu de connaissances, il est surtout là pour apprendre la vie en collectivité.&lt;/p&gt;
 &lt;p&gt;katas:
 Refactoring par exemple (codebase existant, on se concentre sur l&apos;écriture de tests).
-Le kata &lt;a href=&quot;./katas/rental-movie.md&quot;&gt;Rental-Movie&lt;/a&gt; se prête bien au jeu.&lt;/p&gt;
+Le kata &lt;a href=&quot;/rental-movie&quot;&gt;Rental-Movie&lt;/a&gt; se prête bien au jeu.&lt;/p&gt;
 &lt;h1 id=&quot;points-de-départ&quot;&gt;&lt;a href=&quot;#points-de-d%C3%A9part&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Points de départ&lt;/h1&gt;
 &lt;p&gt;Si besoin :&lt;/p&gt;
 &lt;ul&gt;
@@ -96,22 +96,30 @@ Ensuite, le fait d&apos;être là est déjà une valeur en soi : cela force les 
 &lt;p&gt;Ensuite, il s&apos;agit d&apos;animer et donc faciliter: Le participant est acteur, et ils peuvent s&apos;apprendre mutuellement des choses.
 Notre rôle est donc aussi de faciliter l&apos;échange au sein du groupe.&lt;/p&gt;
 &lt;p&gt;De plus, il est souvent possible dès la première scéance que chacun reparte en ayant appris quelque chose, que ce soit:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;un nouveau raccourci clavier&lt;/li&gt;
-&lt;li&gt;l&apos;activation du coverage&lt;/li&gt;
-&lt;li&gt;la différence entre branch coverage et line coverage&lt;/li&gt;
-&lt;li&gt;une lib utile pour les tests (mockito, assertJ, etc)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-markdown&quot;&gt;&lt;code&gt;&lt;span class=&quot;token code keyword&quot;&gt;     - un nouveau raccourci clavier&lt;/span&gt;
+&lt;span class=&quot;token code keyword&quot;&gt;     - l&apos;activation du coverage&lt;/span&gt;
+&lt;span class=&quot;token code keyword&quot;&gt;     - la différence entre branch coverage et line coverage&lt;/span&gt;
+&lt;span class=&quot;token code keyword&quot;&gt;     - une lib utile pour les tests (mockito, assertJ, etc)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
 &lt;p&gt;Pour renforcer le fait que tout le monde est participant, les format de type Randori et Mob Programming sont très appropriés.&lt;/p&gt;
 &lt;h1 id=&quot;péréniser&quot;&gt;&lt;a href=&quot;#p%C3%A9r%C3%A9niser&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Péréniser&lt;/h1&gt;
 &lt;p&gt;Lorsque l&apos;on anime des scéances sur le long terme, un essouflement peut survenir. Comment faire perdurer la flamme ? Comment se renouveller à l&apos;infini ?&lt;/p&gt;
 &lt;p&gt;Quand doit-on arrêter ?
 Idéalement jamais ! Vu que l&apos;on a toujours une marge de progression. La seule vraie raison d&apos;arrêter est s&apos;il n&apos;y a plus de plaisir (d&apos;un côté ou de l&apos;autre). Mais sinon certains problémes se règlent d&apos;eux-mêmes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;turn over des entreprises: rebelotte on recommence !&lt;/li&gt;
-&lt;li&gt;Possibilité de refaire les mêmes katas: soit sous un angle différent, soit pour enlever de possibles frustrations&lt;/li&gt;
-&lt;li&gt;une bonne moitié de la prestation consiste à juste être là. Nombreuses sont les entreprises qui tentent de mettre en place des katas réguliers, mais sans faire appel à un intervenant externe: L&apos;initiative va sauter une premiére fois pour cause de probléme en prod, une seconde fois parce que la feature ne peut attendre, la 3e fois parce &quot;j&apos;aimerais bien débloquer mon probléme&quot;.....et on entend plus jamais parler du coding-dojo du mercredi :-/&lt;/li&gt;
-&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-markdown&quot;&gt;&lt;code&gt;&lt;span class=&quot;token code keyword&quot;&gt;    - turn over des entreprises: rebelotte on recommence !&lt;/span&gt;
+&lt;span class=&quot;token code keyword&quot;&gt;    - Possibilité de refaire les mêmes katas: soit sous un angle différent, soit pour enlever de possibles frustrations&lt;/span&gt;
+&lt;span class=&quot;token code keyword&quot;&gt;    - une bonne moitié de la prestation consiste à juste être là.&lt;/span&gt;
+&lt;span class=&quot;token code keyword&quot;&gt;    - Nombreuses sont les entreprises qui tentent de mettre en place des katas réguliers, &lt;/span&gt;
+&lt;span class=&quot;token code keyword&quot;&gt;    mais sans faire appel à un intervenant externe: &lt;/span&gt;
+&lt;span class=&quot;token code keyword&quot;&gt;    - L&apos;initiative va sauter une premiére fois pour cause de probléme en prod, &lt;/span&gt;
+&lt;span class=&quot;token code keyword&quot;&gt;    - une seconde fois parce que la feature ne peut attendre, &lt;/span&gt;
+&lt;span class=&quot;token code keyword&quot;&gt;    - la 3e fois parce &quot;j&apos;aimerais bien débloquer mon probléme&quot;.....&lt;/span&gt;
+&lt;span class=&quot;token code keyword&quot;&gt;    - et on entend plus jamais parler du coding-dojo du mercredi :-/&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
 &lt;p&gt;Là vous êtes démarchés exprès, l&apos;entreprise vous paie: même si la motivation était en berne ce jour là on ne peut vous laisser en plan, cela force à continuer et ne pas laisser tomber l&apos;idée. On ne vous demande donc pas forcément de révolutionner le monde du coding-dojo à chaque scéance.&lt;/p&gt;
 &lt;h1 id=&quot;sortir-du-cadre&quot;&gt;&lt;a href=&quot;#sortir-du-cadre&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Sortir du cadre&lt;/h1&gt;
 &lt;p&gt;Cela n&apos;empêche pas pour autant d&apos;essayer de sortir du cadre.&lt;/p&gt;
