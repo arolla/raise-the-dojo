@@ -45,12 +45,30 @@ pre, code {
     font-family: 'Yeon Sung', monospace;
 }
 
-h1 {font-size: 4rem;}
-h2 {font-size: 3.5rem;}
-h3 {font-size: 3rem;}
-h4 {font-size: 2.4rem;}
-h5 {font-size: 2rem;}
-h6 {font-size: 1.6rem;}
+h1 {
+    font-size: 4rem;
+    color: forestgreen;
+}
+h2 {
+    font-size: 3.5rem;
+    color: forestgreen;
+}
+h3 {
+    font-size: 3rem;
+    color: forestgreen;
+}
+h4 {
+    font-size: 2.4rem;
+    color: grey;
+}
+h5 {
+    font-size: 2rem;
+    color: forestgreen;
+}
+h6 {
+    font-size: 1.6rem;
+    color: forestgreen;
+}
 
 p, a, li, dt, dd, tr, th {
     font-size: 1.8rem;
