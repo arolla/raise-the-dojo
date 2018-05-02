@@ -54,12 +54,10 @@ Notre rôle est donc aussi de faciliter l'échange au sein du groupe.
 
 De plus, il est souvent possible dès la première scéance que chacun reparte en ayant appris quelque chose, que ce soit:
 
-```markdown
-     - un nouveau raccourci clavier
-     - l'activation du coverage
-     - la différence entre branch coverage et line coverage
-     - une lib utile pour les tests (mockito, assertJ, etc)
-```
+- un nouveau raccourci clavier
+- l'activation du coverage
+- la différence entre branch coverage et line coverage
+- une lib utile pour les tests (mockito, assertJ, etc)
 
 Pour renforcer le fait que tout le monde est participant, les format de type Randori et Mob Programming sont très appropriés.
 
@@ -70,17 +68,9 @@ Lorsque l'on anime des scéances sur le long terme, un essouflement peut surveni
 Quand doit-on arrêter ?
 Idéalement jamais ! Vu que l'on a toujours une marge de progression. La seule vraie raison d'arrêter est s'il n'y a plus de plaisir (d'un côté ou de l'autre). Mais sinon certains problémes se règlent d'eux-mêmes:
 
-```markdown
-    - turn over des entreprises: rebelotte on recommence !
-    - Possibilité de refaire les mêmes katas: soit sous un angle différent, soit pour enlever de possibles frustrations
-    - une bonne moitié de la prestation consiste à juste être là.
-    - Nombreuses sont les entreprises qui tentent de mettre en place des katas réguliers, 
-    mais sans faire appel à un intervenant externe: 
-    - L'initiative va sauter une premiére fois pour cause de probléme en prod, 
-    - une seconde fois parce que la feature ne peut attendre, 
-    - la 3e fois parce "j'aimerais bien débloquer mon probléme".....
-    - et on entend plus jamais parler du coding-dojo du mercredi :-/
-```
+- turn over des entreprises: rebelotte on recommence !
+- Possibilité de refaire les mêmes katas: soit sous un angle différent, soit pour enlever de possibles frustrations
+- une bonne moitié de la prestation consiste à juste être là. Nombreuses sont les entreprises qui tentent de mettre en place des katas réguliers, mais sans faire appel à un intervenant externe: L'initiative va sauter une premiére fois pour cause de probléme en prod, une seconde fois parce que la feature ne peut attendre, la 3e fois parce "j'aimerais bien débloquer mon probléme".....et on entend plus jamais parler du coding-dojo du mercredi :-/
 
 Là vous êtes démarchés exprès, l'entreprise vous paie: même si la motivation était en berne ce jour là on ne peut vous laisser en plan, cela force à continuer et ne pas laisser tomber l'idée. On ne vous demande donc pas forcément de révolutionner le monde du coding-dojo à chaque scéance.
 
