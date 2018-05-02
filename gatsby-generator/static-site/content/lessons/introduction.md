@@ -10,6 +10,7 @@ Le métier de développeur logiciel est récent comparé à la construction de b
 Vous connaissez la fiabilité de ceux deux métiers.
 Vous savez que les logiciels veillissent mal ?
 Vous connaissez les problèmes de logiciels qui perdent en flexibilité et en productivité jusqu'à la non rentabilité ?
+
 **Le mouvement du développement artisanal de logiciels cherche, essaye et contribue à améliorer les valeurs, principes et pratiques qui relèvent le niveau dans leur métier.**
 
 Comme ces recherches ne sont utiles que si elles sont diffusées et appliquées, nous proposons des évènements où l'on essaye et on s'entraîne.
