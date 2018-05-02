@@ -53,6 +53,10 @@ class Index extends React.Component {
                 </a>{' '}
                 Also, <a href="https://github.com/Levino">Levin Keller</a> for
                 making it better than I could{"'"}ve alone.
+                Modified for Arolla by Jérémy Goupil.{' '}
+                <a href="https:twitter.com/jeregoupix">
+                  You should follow him on Twitter.
+                </a>{' '}
               </p>
             </div>
           </BodyContainer>

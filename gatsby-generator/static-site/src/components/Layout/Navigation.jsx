@@ -44,10 +44,10 @@ class Navigation extends React.Component {
             {' '}
             DOCS{' '}
           </Link>
-          <Link className="nav-link" to="/about">
+          {/* <Link className="nav-link" to="/about">
             {' '}
             ABOUT{' '}
-          </Link>
+          </Link> */}
         </section>
         <span>
           <UserLinks />
