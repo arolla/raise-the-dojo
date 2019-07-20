@@ -100,7 +100,19 @@ ex: Trivia, RPN, game of life, Mars Rover, Poker, TripService, FruitShop, Gilded
 # TDD avancé : Inside out/outside in
 
 Il s'agit de voir les mock, de traverser les API.
-coffee machine, Pandémie vs Kahuna
+coffee machine, Bank Kata, game of life, Train Reservation, Pandémie vs Kahuna
+
+# Build your own Kata
+
+Lorsque vous avez un challenge dans votre code de tous les jours, vous pouvez vous en servir pour faire un kata en groupe. Dans votre équipe, vous pouvz faire une session de Mob Programming, avec des personnes exterieure à vtre entreprise, il vous faudra anonymiser votre exemple en retirznt le nom de votre entreprise ou en trouvant un fonctionnel équivalent dans un autre domaine (commeun fruit shop, train reservation, etc.)
+
+Lorsque l'on est extérieur à l'équipe ou nouveau; il vous faudra peut-être inventer un katao du moins trouver des critères pour bien le choisir...
+Voici quelques pistes :
+- les katas n'utilisant que des types primitif pour faire des calculs sont les plus rapides à implémenter (Prime Factor, FizzBuzz, Roman Numerals, ...)
+- les katas utilisant des données non primitives lance le sujet de la modélisation ou l'implémentation de la donnée. C'est un coup à prendre pour accéder à des sujets plus variès et un "métier" plus proche des applis de gestion (règles métiers, invariants, ...)
+-- non primitif : ascii art/parsing (OCR, poker hand, coffe machine), plateaux (mars rover, game of life, tic tac toe, démineur), structure métier comme des clients ou des portefeuilles, ...
+- les user stories se slicent selon quelques recettes, ces recettes encouragent des design patterns (variation d'opérations => commandes, workflow => chaine de responsabilité, multitenant => abstract factory, 80/20 => socle à template methods, ...)
+- les tests décrivent un comportement, mais ils n'inmpliquent pas l'usage d'un pattern ou d'une implémentation. Le test de tri d'un ensemble est le même quelque soit l'implémentation (quick sort, bubble sort, merge sort, etc.)
 
 # Build your tools
 
