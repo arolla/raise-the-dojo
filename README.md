@@ -1,7 +1,7 @@
 # raise-the-dojo
 
-Ce dépôt décris ce qu'est un dojo, a quoi ca sert et pourquoi vous et vos décideurs en voulez chez vous.
-Notre métier change et se transforme plus rapidement que nos carrières. 
+Ce dépôt décrit ce qu'est un dojo, a quoi ca sert et pourquoi vous et vos décideurs en voulez chez vous.
+Notre métier change et se transforme plus rapidement que nos carrières.
 Les compétences et méthodes d'aujourd'hui ne seront pas celles demain.
 Ne restez pas sur les meilleures pratiques d'hier :-)
 Le mouvement Software Craftsmanship explore les pratiques en cours de découverte, diffuse les meilleures connues à ce jour.
@@ -19,7 +19,7 @@ Par les dojos, nous proposons de développer cette maitrise de l'art du dévelop
 
 - cloner le repository
 - se placer dans gatsby-generator/static-site/
-- installer les dépendances du projet 
+- installer les dépendances du projet
 
 ```sh
   npm install
