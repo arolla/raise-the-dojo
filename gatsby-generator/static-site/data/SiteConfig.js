@@ -6,7 +6,7 @@ module.exports = {
   siteLogo: "https://pbs.twimg.com/profile_images/826004190359060480/PhbO1qWJ_400x400.jpg", // Logo used for SEO and manifest.
   siteUrl: "https://arolla.fr", // Domain of your website without pathPrefix.
   pathPrefix: "/raise-the-dojo", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
-  siteDescription: " Ce dépôt décris ce qu'est un dojo, a quoi ca sert et pourquoi vous et vos décideurs en voulez chez vous. ", // Website description used for RSS feeds/meta description tag.
+  siteDescription: " Ce dépôt décrit ce qu'est un dojo, a quoi ca sert et pourquoi vous et vos décideurs en voulez chez vous. ", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "1825356251115265", // FB Application ID for using app insights
   googleAnalyticsID: "UA-82450300-1 ", // GA tracking ID.

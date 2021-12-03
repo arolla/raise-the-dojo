@@ -14,7 +14,7 @@ Si, si, ca sert vachement... à... quelque chose, on verra plus tard ;-)
 
 # Le déroulé
 
-il est décris dans le repo de coulas [github.com/coulas/foobarqix], c'est un sujet à tirroir, finissez une étape avant de voir la suivante.
+il est décrit dans le repo de coulas [github.com/coulas/foobarqix], c'est un sujet à tirroir, finissez une étape avant de voir la suivante.
 
 # Le guide d'animation
 ## Le Foo Bar :
