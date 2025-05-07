@@ -39,7 +39,6 @@ export default class HTML extends React.Component {
           {css}
         </head>
         <body>
-          <iframe width="350" height="430" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/2c4721d2-ef44-4944-8379-9ca0ed1ac5e8"></iframe>
           <div
             id="___gatsby"
             dangerouslySetInnerHTML={{ __html: this.props.body }}
