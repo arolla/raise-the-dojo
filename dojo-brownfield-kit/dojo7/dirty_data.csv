@@ -1,0 +1,8 @@
+id,full_name,email 
+1,"Jean Dupont",jean@mail.com 
+2,"MARIE CURIE",marie@science.org 
+3,"Vincent van Gogh",vincent@art.nl 
+4,"Dr. Gregory House",house@md.com 
+5,"Martin",martin@solo.com 
+6,"DUPONT Jean-Pierre",jp@dupont.fr 
+7,"ERR_DATA_NULL",no_email

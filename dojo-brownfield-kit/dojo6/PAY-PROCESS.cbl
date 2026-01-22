@@ -1,0 +1,41 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. PAY-PROCESS.
+
+       DATA DIVISION.
+       WORKING-STORAGE SECTION.
+       01 WS-ORDER-ID  PIC 9(5).
+       01 WS-AMOUNT    PIC 9(5)V99.
+       01 WS-TYPE      PIC X(10).
+       01 WS-FINAL-AMT PIC 9(5)V99.
+
+       PROCEDURE DIVISION.
+       MAIN-PROCESS.
+           DISPLAY "STARTING PAYMENT LOGIC"
+
+      * LOGIQUE IMPERATIVE DURE
+           IF WS-AMOUNT < 0
+               DISPLAY "ERROR: NEGATIVE AMOUNT"
+               GO TO END-PROCESS
+           END-IF
+
+           IF WS-TYPE = "VISA"
+               COMPUTE WS-FINAL-AMT = WS-AMOUNT * 1.01
+               DISPLAY "CALLING VISA SUBROUTINE..."
+               DISPLAY "CHARGED: " WS-FINAL-AMT
+               DISPLAY "SENDING SMTP CONFIRMATION..."
+           ELSE
+               IF WS-TYPE = "CASH"
+                   DISPLAY "WAITING FOR STORE VISIT"
+                   MOVE WS-AMOUNT TO WS-FINAL-AMT
+               ELSE
+                   DISPLAY "UNKNOWN PAYMENT TYPE"
+                   GO TO END-PROCESS
+               END-IF
+           END-IF
+
+      * DATABASE UPDATE
+           DISPLAY "DB2 UPDATE: SET STATUS=OK FOR ID " WS-ORDER-ID
+           .
+
+       END-PROCESS.
+           STOP RUN.
